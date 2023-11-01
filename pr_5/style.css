@@ -68,7 +68,7 @@ body {
 
     .scroll-wrap{
       display: grid;
-      grid-template-columns: max-content;
+      grid-template-columns: 1fr 1fr 1fr;
       gap:24px;
       height: auto;
     }
